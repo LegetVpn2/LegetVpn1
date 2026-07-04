@@ -1,0 +1,21 @@
+#profile-title: LegetVpn
+#profile-update-interval: 12
+#subscription-userinfo: expire=1785877200; total=107374182400; used=0
+#profile-web-page-url: https://t.me/LegetVpn
+#announce:  лучший впн @LegetVpn
+
+vless://43df00c9-f209-4773-b1cc-48e175bfb606@dp-hu-01.live:443?fp=firefox&flow=xtls-rprx-vision&headerType=none&sid=f4b4a6365558ea2e&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&type=tcp&security=reality&sni=storage.yandex.net#🇭🇺 Венгрия #1 @LegetVpn
+vless://43df00c9-f209-4773-b1cc-48e175bfb606@45.195.111.77:443?flow=xtls-rprx-vision&fp=firefox&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&security=reality&seq=you_are_beautiful8247&sid=f4b4a6365558ea2e&sni=storage.yandex.net&type=tcp#🇭🇺 Венгрия #2 @LegetVpn
+vless://43df00c9-f209-4773-b1cc-48e175bfb606@dp-hu-01.live:443?security=reality&encryption=none&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=f4b4a6365558ea2e#🇭🇺 Венгрия #3 @LegetVpn
+vless://43df00c9-f209-4773-b1cc-48e175bfb606@dp-hu-01.live:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=storage.yandex.net&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&sid=f4b4a6365558ea2e#🇭🇺 Венгрия #4 @LegetVpn
+vless://3e0a91ec-05a3-461f-9367-14b289a5b54b@2.58.66.198:443?flow=xtls-rprx-vision&fp=firefox&pbk=2AKBmK0PMf2zUMhRo1Ad-WNf_XoRk3AN-SGo6ZdhxA4&security=reality&sid=19e741a804f420a7&sni=de.monkeyisland.xyz&type=tcp#🇩🇪 Германия #1 @LegetVpn
+vless://3e0a91ec-05a3-461f-9367-14b289a5b54b@2.58.66.180:443?type=tcp&headerType=none&security=reality&encryption=none&sni=de.monkeyisland.xyz&fp=firefox&pbk=2AKBmK0PMf2zUMhRo1Ad-WNf_XoRk3AN-SGo6ZdhxA4&sid=19e741a804f420a7&flow=xtls-rprx-vision#🇩🇪 Германия #2 @LegetVpn
+vless://3e0a91ec-05a3-461f-9367-14b289a5b54b@2.58.66.198:443?type=tcp&headerType=none&security=reality&encryption=none&sni=de.monkeyisland.xyz&fp=firefox&pbk=2AKBmK0PMf2zUMhRo1Ad-WNf_XoRk3AN-SGo6ZdhxA4&sid=19e741a804f420a7&flow=xtls-rprx-vision#🇩🇪 Германия #3 @LegetVpn
+vless://3e0a91ec-05a3-461f-9367-14b289a5b54b@de.monkeyisland.xyz:443?type=tcp&headerType=none&security=reality&encryption=none&sni=de.monkeyisland.xyz&fp=firefox&pbk=2AKBmK0PMf2zUMhRo1Ad-WNf_XoRk3AN-SGo6ZdhxA4&sid=19e741a804f420a7&flow=xtls-rprx-vision#🇩🇪 Германия #4 @LegetVpn
+vless://bf142126-5bc4-46fa-986e-ffc4517655dd@it-one.quiet-rogue.site:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=it-one.quiet-rogue.site&fp=edge&pbk=T7cxFOGNMLKqZiEustm2sOfwOovHyHnLcGDWfSmaU1c&type=tcp&headerType=none#🇭🇰 Гонконг #1 @LegetVpn
+vless://eece4171-e025-40a3-9027-e395036ff99d@dp-es-01.live:443?type=tcp&headerType=none&security=reality&encryption=none&sni=storage.yandex.net&fp=firefox&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&sid=28047c78b3f5ee2c&flow=xtls-rprx-vision#🇪🇸 Испания #1 @LegetVpn
+vless://eece4171-e025-40a3-9027-e395036ff99d@dp-es-01.live:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&sid=28047c78b3f5ee2c&sni=storage.yandex.net#🇪🇸 Испания #2 @LegetVpn
+vless://1d39f715-2740-4d99-bc3b-197cc48dcee7@107.173.237.146:8443?encryption=none&security=reality&sni=updates.cdn-apple.com&fp=chrome&pbk=D3ojIs3AUKP_tV0E4TEjh90HBVJp24Nq3qMfdxD30kc&sid=df8611c07d&type=tcp&headerType=none#🇺🇸 США #1 @LegetVpn
+vless://5aa708a4-0134-4f24-ba6f-d775651bd21e@tr.iranfastspeed.com.tr:59492?security=reality&encryption=none&pbk=jPWzhxlyYrRZTKbUO-Wb_OjWgD_7RrG3CFkttX7mKVY&headerType=none&fp=chrome&spx=/MQkVkUG8SYXH6IZ&type=tcp&sni=www.google.com:443&sid=0b1eccc239d0&burmalda=5e53e489#🇹🇷 Турция #1 @LegetVpn
+vless://85357d35-492e-4814-835a-aba4cb7f00ad@157.85.230.247:64371?type=tcp&headerType=none&security=reality&encryption=none&sni=apple.com&fp=firefox&pbk=lvNgDfAnK72MtJYd3VcZWgmpKUABdH8jfUghJIScdSM&sid=38c7778a&flow=xtls-rprx-vision#🇯🇵 Япония #1 @LegetVpn
+vless://85357d35-492e-4814-835a-aba4cb7f00ad@157.85.230.247:64371?encryption=none&flow=xtls-rprx-vision&security=reality&sni=apple.com&fp=chrome&pbk=lvNgDfAnK72MtJYd3VcZWgmpKUABdH8jfUghJIScdSM&sid=38c7778a&type=tcp&headerType=none&seq=you_are_beautiful3805#🇯🇵 Япония #2 @LegetVpn
